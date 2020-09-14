@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Jessie's Octocat](https://i.imgur.com/IL3weQC.png)
+!
 
 I’m Jessie (she/her), an aspiring web developer doing self paced online learning with [Launch School](https://launchschool.com/). I enjoy games (video + tabletop + dnd!), reading, exercise, nature, and walking my dog. I’ve been learning code in earnest since early 2020, and hope to someday have a career in the tech industry! 
 
