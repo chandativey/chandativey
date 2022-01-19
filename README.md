@@ -1,7 +1,7 @@
 ### oh, hi! 👋
 
 <!--
-**jesstivey/jesstivey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chandativey/chandativey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m Jessie (she/her), an aspiring web developer doing self paced online learning with [Launch School](https://launchschool.com/). I enjoy games (video + tabletop + dnd!), reading, exercise, nature, and walking my dog. I’ve been learning code in earnest since early 2020, and hope to someday have a career in the tech industry! 
+I’m Chanda (she/her), an aspiring web developer doing self paced online learning with [Launch School](https://launchschool.com/). I enjoy games (video + tabletop + dnd!), reading, exercise, nature, and walking my dog.
 
 Feel free to reach out to me on all the socials, as I'm happy to chat :heart: 🤗
