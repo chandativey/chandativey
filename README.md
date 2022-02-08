@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I’m Chanda (she/her), an aspiring web developer doing self paced online learning with [Launch School](https://launchschool.com/). I enjoy games (video + tabletop + dnd!), reading, exercise, nature, and walking my dog.
-
-Feel free to reach out to me on all the socials, as I'm happy to chat :heart: 🤗
